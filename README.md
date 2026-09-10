@@ -1,1 +1,1 @@
-# Hackthon project
+# Hackthon
