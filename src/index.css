@@ -20,8 +20,6 @@ body {
     linear-gradient(135deg, #07111f 0%, #0b1728 55%, #07111f 100%);
 }
 
-/* Navigation */
-
 nav {
   position: sticky;
   top: 0;
